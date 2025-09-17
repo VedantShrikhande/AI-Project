@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+env/
+venv/
+chatbot_safety_log.txt
+HateSpeechDataset.csv
